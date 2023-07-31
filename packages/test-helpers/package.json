@@ -1,19 +1,19 @@
 {
-  "name": "@json2csv/test-helpers",
+  "name": "json2csv_test-helpers",
   "version": "7.0.1",
   "description": "Test helper to test the json2csv libraries",
-  "homepage": "http://juanjodiaz.github.io/json2csv",
+  "homepage": "http://github.com/fdpamb/json2csv",
   "bugs": {
-    "url": "https://github.com/juanjoDiaz/json2csv/issues"
+    "url": "https://github.com/fdpamb/json2csv/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanjoDiaz/json2csv.git"
+    "url": "git+https://github.com/fdpamb/json2csv.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Juanjo Díaz",
-    "email": "juanjo.diazmo@gmail.com"
+    "name": "F D Pambudi",
+    "email": "dendibudi@gmail.com"
   },
   "type": "module",
   "scripts": {
